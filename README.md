@@ -10,7 +10,7 @@
 ## General Information
 A weather forecasting app 
 
-<img width="1435" alt="Screen Shot 2022-09-01 at 10 43 15 PM" src="https://user-images.githubusercontent.com/108381693/188055489-9ec3dc7c-6afd-4231-8a88-776abbedef33.png">
+<img width="1439" alt="Screen Shot 2022-09-12 at 10 04 41 PM" src="https://user-images.githubusercontent.com/108381693/189799361-611d44ec-fe66-4cb1-b848-f5429c357eef.png">
 
 
 
