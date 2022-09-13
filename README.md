@@ -26,7 +26,7 @@ CSS
 Open Weather Map API
 
 ## Project Status
-Application currently not functioning properly.
+Application currently not functioning properly. Cannot receive weather information about making API call. 
 
 
 ## Contact
